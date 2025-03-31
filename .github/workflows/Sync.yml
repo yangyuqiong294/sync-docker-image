@@ -1,0 +1,8 @@
+# 镜像源 (Registry)
+source: docker.io
+# 目标源 (Registry)
+destination: registry.cn-hangzhou.aliyuncs.com
+# 仓库 (格式 repo)
+source_repo: kustomize:v4.5.0
+# 目标Scope (格式 scope)
+destination_scope: yangyuqiong/kustomize:v4.5.0
